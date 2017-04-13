@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_51f3bb006b3221cbd140209bc52b861ea7bba932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_1abac14984e3ca167e27fbdb528d7464d95b4133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2e8c9eaad7d69cbe55332d38f9a78bed4c6facae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_30420e6a1da2267f320a13030c78bac3a735ff56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_4a6803c92b0ca1d68899742678656629ac6dd571.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_88459b0f6d0f36ed5fa42462a608604083f14b2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SONY\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_f7776513d497db2b8adeb28e86a742489d25a1b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_5ed9d17f18e7fbd9be4f145da5ef7ccc4a859bbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4eeac2dd9af135c056dfc397863e7b790516291d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3f25e2878b4e8f61c19453d367a88df44d010225.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_65cb2021461584a694848c3016e1316a0d992f24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d741923ebb57c69d8a6d402ae3b2475697f24484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0adc78e8e4b12f19c53f29ec5a281e2d2ce9e79b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_5686fa258ade789ebf433c8345e2837e28224665.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_2bbb30910de3d8bebf84fb6fdc096c26195f56c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_cfdfd1b6d148655b69e20be0de012cd73b7e89cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_5807d6e0916ea703a3d962a9aae81b3807e6ccc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_b947024050a36eb558f177395d6c7734af0ef4ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_ef968006748ed3965638538861f32e9679199c4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_2e01674c8407b0506c97ea84960783c2b1f143bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_7f8436c9bc284874039f66d186ca5c6139ecb9b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\SONY\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d30b1ed49fcce10850127083e81771cfae2a96f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_2a70f32ee2c6291a457440dcc1074a057b8a3ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_adbd14ffa556a0c8a02f05af466381ef408465c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_f0c319c14290e3472e3339f8fdf2b8bfa977d5a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_a80d52da0262d35074a42480d5544671c4df60b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_0fb3baf6dc12af47f24815c3b24e2a3ef74039c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_f3d032ade48a86232651deac97c5b0d2908cc56f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_5771395baab563dc018a4120a3ff567a6749240e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\FirstApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="D:\android\FirstApp\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_470d5a65ec8f866656a689239b06b9ca5d1ef99e.jar" />
+    </item>
+
+</items>
